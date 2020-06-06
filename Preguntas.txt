@@ -1,0 +1,13 @@
+PREGUNTAS : 
+
+¿COMO SE DEFINE UN FUNCION?
+
+ - Primero colocamos la palabra reservada  function.
+ - Luego le colocamos el nombre de la funcion.
+ - Abrimos parentesis, y dentro de estos, colocamos los argumentos, si son mas de dos los separamos por comas.
+ - Abrimos llaves, y dentro de las llaves colocamos el bloque de codigo que vamos a realizar.
+
+¿HASTA CUANTOS ARGUMENTOS SE PUEDEN DECLARAR EN UN FUNCION?
+
+ - Se pueden declarar infinidad de argumentos, pero no seria una muy buena practica
+   colocar demasiados para un sola funcion.
