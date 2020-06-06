@@ -46,17 +46,18 @@
 
 // // EJERCICIO Nº5
 
+// NO ESTA TERMINADO
 
-function calculator(n1,n2,x){
-    x = Number(n1 * n2)
+// function calculator(n1,n2,x){
+//     x = n1 * n2
 
-    if((typeof n1 === Number) && (typeof n2 === Number)){
-        return `El resultado de la Multiplicacion de ${n1} * ${n2} es : ${x}`
-    }else{
-        return 'El parametro no es reconocido'
-    }
-}
+//     if((typeof n1 === Number) && (typeof n2 === Number)){
+//         return `El resultado de la Multiplicacion de ${n1} * ${n2} es : ${x}`
+//     }else{
+//         return 'El parametro no es reconocido'
+//     }
+// }
 
-console.log(calculator(40,10))
+// console.log(calculator(40,10))
 
 
